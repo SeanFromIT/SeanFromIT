@@ -20,7 +20,7 @@ I believe in empowering teams to own their full-stack - whatever that stack migh
 
 ### Most day-to-day and sprint-to-sprint decisions are Type 2. They should be made by the team that’s as close to the problem as possible. It’s okay to pivot on these. I, as management, generally don’t need to know the details. I should instead be investing my time in the Type 1 decisions.
 
-Some additional leadership concepts I often lean on:
+Some additional leadership concepts I often *lean* on:
 * [Theory of Constraints](https://www.leanproduction.com/theory-of-constraints.html) (Removing one just highlights the next)
 * [Sunk Cost Fallacy / Bygones principle](https://en.wikipedia.org/wiki/Sunk_cost#Bygones_principle) (Only take into account the future costs and benefits when making decisions) 
 > "You can't make up for things that have happened in the past. You just got to think about what you're going to do moving forward. *One play at a time.*" - Tom Brady
