@@ -20,6 +20,8 @@ I believe in empowering teams to own their full-stack - whatever that stack migh
 
 ### Most day-to-day and sprint-to-sprint decisions are Type 2. They should be made by the team that’s as close to the problem as possible. It’s okay to pivot on these. I, as management, generally don’t need to know the details. I should instead be investing my time in the Type 1 decisions.
 
+I’m an advocate for work-life balance. All things in balance, really. If you’re looking for how I stay cool in a crisis, [this is it](https://www.psychologytoday.com/us/blog/how-healing-works/202004/how-balance-your-mind-body-and-soul-during-crisis). I have [a simple framework for fitting it all in](https://feeney.mba/now/). YMMV, but it’s up to you to set your boundaries. I might produce or respond to asynchronous communications at any time of day, but **I make it clear to my direct reports that outside of production down, there is no expectation of response until their next scheduled working hours**. I also try to be clear if a response is required, at all, and if so by whom (@ tags are great). We’re all adults and I’m not going to micromanage when work gets done, only that it *is* done and done to expectations. As long as commitments are met, I don’t need to know when you step away for a few minutes for your mental or physical health or family matters. Keep your calendar up to date, and I have your phone number for production emergencies.
+
 Some additional leadership concepts I often *lean* on:
 * [Theory of Constraints](https://www.leanproduction.com/theory-of-constraints.html) (Removing one just highlights the next)
 * [Sunk Cost Fallacy / Bygones principle](https://en.wikipedia.org/wiki/Sunk_cost#Bygones_principle) (Only take into account the future costs and benefits when making decisions) 
@@ -44,7 +46,15 @@ This breaks the cycle of everyone being perpetually late to every meeting from h
 
 This was before the age of Zoom, and it focused on not having side conversations in the conference room that distract phone participants from hearing the main meeting, or conversely muting and having the remote participants wondering if they’re having connection problems or missing out on some camaraderie. [Inclusion can be even better now](https://ideas.ted.com/how-to-have-inclusive-meetings-over-zoom/).
 
-My biggest pet peeve is recurring, agendaless meetings. Given the chance, [I will rant](https://feeney.mba/using-devops-to-improve-the-value-chain.html) about the bad meetings eating up my calendar. But Ben Hilburn is more [articulate on the subject](https://bhilburn.org/halt-and-goto-meeting/).
+My biggest pet peeve is recurring, agendaless meetings. Given the chance, [I will rant](https://feeney.mba/using-devops-to-improve-the-value-chain.html) about the bad meetings eating up my calendar. But Ben Hilburn is more [articulate on the subject](https://bhilburn.org/halt-and-goto-meeting/). [According to Godin](https://seths.blog/2009/03/three-kinds-of-meetings/), there are three types of meetings:
+
+* Informational
+* Discussion
+* Permission
+
+The first and the last can be emails or other forms of asynchronous communications, leaving discussions and their resulting feedback as the most valuable to be worthy of investments of synchronous meetings. But before we can have a *meaningful* discussion, the participants must have a similar starting point. 
+
+[Enter the narrative](https://slab.com/blog/jeff-bezos-writing-management-strategy/). It doesn’t have to be six pages, and it doesn’t have to be prose. It could be an architecture diagram, or an outline, or a working prototype. A **document** the meeting participants can absorb on their own time before the meeting. And yes, if someone hasn’t reviewed it before the meeting, I will stop the meeting to give them the time to review it. [This practice promotes inclusivity](https://slab.com/blog/silent-meetings/). Every participant of the meeting should have something to add to the discussion, and if upon reviewing the document the participant realizes there’s nothing for them to add, it should be okay for them to decline the meeting or drop mid way through it. [Flow is critical to productivity](https://blog.rescuetime.com/context-switching/), and I’d rather my employees stay in flow than be in meetings all day. If it was up to me, [maker time](http://www.paulgraham.com/makersschedule.html) would be mandatory.
 
 Finally, we generally work across time zones. Very few companies got to true Agile team colocation before the pandemic, and even fewer will be going back to full scrum team colocation after. So if you’re going to schedule a meeting, be mindful of the schedules of those you’re inviting. After mastering “this meeting could have been an email,” consider the nuances of [asynchronous communications](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/).
 
